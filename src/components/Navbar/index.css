@@ -1,0 +1,9 @@
+.navbar {
+  height: 15vh;
+  display: flex;
+  padding: 10px;
+}
+
+.image {
+  width: 20%;
+}

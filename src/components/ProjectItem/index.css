@@ -1,0 +1,16 @@
+.project-list {
+  width: 20%;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px 5px #cbd5e1;
+}
+
+.project-image {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.project-text {
+  padding: 10px;
+  font-weight: bold;
+}

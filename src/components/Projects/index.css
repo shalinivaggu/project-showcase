@@ -1,0 +1,44 @@
+.unorderedList {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
+
+.select {
+  padding: 10px;
+  width: 25%;
+}
+
+.project-container {
+  padding: 10px;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  text-align: center;
+}
+
+.failure-image {
+  width: 30%;
+}
+
+.failure-button {
+  color: #ffffff;
+  background-color: #328af2;
+  padding: 10px 20px;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+}
